@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi, I'm Rafael 👋</h1>
 <p align="center">💻 Aspiring IT Professional | Building Labs & Learning Everyday</p>
-<marquee behavior="scroll" direction="left">🚀 Currently working on labs & growing my IT skills daily!</marquee>
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
