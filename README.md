@@ -28,6 +28,10 @@
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-4479A1?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgar1101&show_icons=true&theme=github_dark)
+
+
 
 <h2>🤳Connect with me:</h2>
 
