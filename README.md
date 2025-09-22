@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Hi, I'm Rafael: an IT Professional. </a>☺</h1>
+<h1>Hi, I’m Rafael — an IT professional with a passion for technology! 😊 </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
