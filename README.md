@@ -10,7 +10,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/rafaelgarridoIT1/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
-  - [Configuring A Virtual Machine and remote access ](https://github.com/rafaelgarridoIT1/configure-vm)
+  - [Configuring A Virtual Machine and Remote Access ](https://github.com/rafaelgarridoIT1/configure-vm)
   - [VPN Setup in Virtual Machine ](https://github.com/rafaelgarridoIT1/Setting-UP-A-VPN)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/rafaelgarridoIT1/azure-network-protocols)
  
