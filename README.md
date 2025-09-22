@@ -35,6 +35,7 @@
 
 
 <h2>🤳Connect with me:</h2>
+(https://www.linkedin.com/in/rafael-garrido-66a458386/)
 
 
 <!--
