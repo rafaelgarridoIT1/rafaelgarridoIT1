@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<h1>Hi, I’m Rafael — an IT professional with a passion for technology! 😊 </a>☺</h1>
+<h1 align="center">Hi, I'm Rafael 👋</h1>
+<p align="center">💻 Aspiring IT Professional | Building Labs & Learning Everyday</p>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -19,6 +20,14 @@
    - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/rafaelgarridoIT1/Active-Directory)
   
    - [Configuring Account Policies for Active Directory](https://github.com/rafaelgarridoIT1/Account-Policies)
+
+  ### 🛠️ Skills & Tools
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/-Networking-4A90E2?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-4479A1?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
 
 <h2>🤳Connect with me:</h2>
 
