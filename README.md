@@ -16,7 +16,7 @@
  
  
  - <b>Active Directory</b>
-   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rafaelgarridoIT1/Active-Directory)
+   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/rafaelgarridoIT1/Active-Directory)
 
 <h2>🤳Connect with me:</h2>
 
