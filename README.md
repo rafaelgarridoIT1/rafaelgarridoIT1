@@ -35,7 +35,7 @@
 
 
 <h2>🤳Connect with me:</h2>
-<a href="https://www.linkedin.com/in/rafael-garrido-66a458386/" target="_blank">
+<a href="(https://www.linkedin.com/in/rafaelgarridosanabria/)" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 
